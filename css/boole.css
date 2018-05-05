@@ -1,0 +1,379 @@
+
+/*NAVIGATION*/
+
+.navbar{
+        background-color: transparent !important;
+        border: 0 !important;
+        position: absolute;
+}
+.navbar a{
+        color: #fff !important;
+}
+.navbar-brand {
+    width: 1px;
+    height: 1px;
+}
+
+.header {
+    width: 100%;
+    height: 800px;
+    background-image: url(../assets/img/header%20pix.jpg);
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+    
+    
+}
+.header-overlay{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    opacity: 0.85;
+    
+}
+
+.bole-f {
+    width:100%;
+    padding-top: 35%;
+    text-align: center;
+}
+
+.get-ticket {
+    width: 15%;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    border: 3px solid white;
+    cursor: pointer;
+}
+
+
+/*BANNER ends*/
+
+/*SUB-HEADER*/ 
+
+.sub-header{
+    height: 200px;
+    color: white;
+    position: ;
+}
+.when{
+    width: 50%;
+    text-align:right;
+     background-color: orange;
+    padding: 35px;
+}
+.where{
+    width: 50%;
+    padding:35px;
+    background-color: darkorange;
+    text-align: left;
+
+}
+#map-icon {
+    width: 7%;
+    height: 55px;
+    text-align: center;
+    border: 1px solid white;
+    margin-left: 400px;
+    margin-bottom: 60px;
+    font-size: 30px;
+    position: absolute;
+}
+
+#cal-icon {
+     width: 10%;
+    height: 55px;
+    text-align:center;
+    border: 1px solid white;
+    margin-bottom: 60px;
+    font-size: 30px;
+    position: absolute;
+    
+}
+/*SUB-HEADER ends*/
+
+
+/*EEC SECTION*/
+
+.eec {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    
+}
+
+.ent {
+     width: 100%;
+    height: 250px;
+    margin-top: 90px;
+    padding:30px;
+    border-right: 2px solid yellow;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.exhi {
+    width: 100%;
+    height: 400px;
+    margin-top: 90px;
+    margin-top:px;
+    padding:30px;
+    background-size: cover;
+}
+
+.comp {
+   width: 100%;
+    height: 250px;
+    margin-top: 90px;
+    padding-right: 20px;
+    padding:30px;
+    border-left: 2px solid yellow;
+    background-size: cover;
+}
+
+#exhi-text {
+    margin-top:90px;
+    text-align: center;
+}
+
+#comp-text {
+    margin-top:50px;
+    text-align: center;
+    margin-right: 40px;
+    
+}
+
+#ent-text {
+    margin-top:85px;
+    margin-right: 40px;
+    text-align: center;
+}
+#ent-icon {
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    font-size: 50px;
+    margin-right:20px;
+    color: red;
+    position: absolute;
+}
+
+#comp-icon {
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    font-size: 50px;
+    margin: 50px
+    position: absolute;
+    color: red;
+}
+
+#exhi-icon {
+    
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    font-size: 50px;
+    margin-right:20px;
+    color: red;
+    position: absolute;
+}
+
+/*EEC SECTIONENDS*/
+
+.main-head {
+    width: 100%;
+    height: 700px;
+    background-image:url(../assets/img/about%20bole%20overlayed.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.head-overlay1 {
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-color:orangered;
+    opacity: 0.84;
+   position: relative; 
+}
+.overlay2 {
+    width: 100%;
+    height: 700px;
+    background-color: crimson;
+    background-size: cover;
+    opacity:0.85 ;
+    -webkit-clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+   position: relative;
+}
+
+
+.go-up {
+    width: 85%;
+    position: absolute;
+    text-align: center;
+    margin-top: -700px;
+}
+
+#bole-img {
+    width: 150%;
+    padding-top: 150px;
+    position: relative;
+}
+.about-bole {
+    width:100%;
+    height:50%; 
+    text-align:left;
+    background-color: white;
+    margin-top:220px;
+    border-right: 3px solid yellow;
+    
+}
+
+.bole {
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+/*ABOUT BOLE FESTIVAL ENDS*/
+
+
+/*SPONSORS*/
+
+
+.sponsors {
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-size:cover;
+    text-align: center;
+    
+}
+
+#fest-spons {
+    margin-top: 60px;
+    padding:20px;
+        
+}
+#logos {
+    width: 100%;
+    margin: 100px;
+    padding: 20px;
+}
+
+#sponsor-btn {
+    width: 100%;
+    text-align: center;
+}
+
+/*SPONSORS*/
+
+/*SUB-FOOTER*/
+
+
+.sub-foot {
+    width: 100%;
+    height: 700px;
+    background-image: url(../assets/img/last.jpg);
+    background-size:cover;
+    position: relative;
+    background-attachment:fixed;
+        
+}
+
+.subfoot {
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-color:orange;
+    opacity: 0.85;
+}
+
+.subover {
+    width: 100%;
+    height: 700px;
+    background-color: black;
+
+    opacity: 0.45
+    
+}
+/*SUBFOOT ENDS*/
+
+/*FOOTER*/
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: dimgrey;
+    color: white;
+    text-align: center;
+    }
+
+#copy {
+    padding-top: 100px;
+}
+
+#foot {
+    width: 100%;
+    padding-top: 90px;
+    
+}
+.font-align {
+    margin-left: 50%;
+    text-align: right;
+}
+@media(max-width:750px){
+    /* HEADER*/
+    .header { 
+        height: 600px;
+    }
+    .bole-f{
+        padding-top: 200px;
+    }
+    .get-ticket{
+        width: 150px;
+    }
+    .sub-header{
+        position: relative;
+        
+    }
+    .when{
+        width: 100%;
+        height: 300px;
+        text-align: center;
+    }
+    #cal-icon{
+        width: 80%;
+        height: 80px;
+        font-size: 50px;
+        padding-left: 80px;
+        margin: 0 0;
+        border:none;
+        position:relative;
+    }
+    .venue-text{
+        width: 100%;
+    }
+    .where{
+       width: 100%;
+       height: 300px;
+       text-align: center; 
+        position:relative;
+    }
+    
+    
+}
+/*SUB HEADER ENDS*/
+/*EEC SECTION*/
+.eec{
+    width: 100%;
+}
+/*EEC SECTION ENDS*/
+
+
+
